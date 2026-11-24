@@ -191,9 +191,8 @@ namespace Proje1
             Console.WriteLine("50 Var mı? " + liste.VarMi(50));
             Console.WriteLine("30'un İndeksi: " + liste.Bul(30));
 
-            liste.Sil((object)25); // 25 değerini nesne olarak siler
-            liste.Sil(0);          // 0. indeksteki elemanı siler
-
+            liste.Sil((object)25); 
+            liste.Sil(0);          
             liste.SonaEkle(5);
             liste.Sirala();
             Console.WriteLine("\nSıralı Liste:");
