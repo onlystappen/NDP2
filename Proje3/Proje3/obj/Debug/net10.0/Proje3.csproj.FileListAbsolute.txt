@@ -1,0 +1,15 @@
+C:\Users\arda\source\repos\Proje3\Proje3\bin\Debug\net10.0\Proje3.exe
+C:\Users\arda\source\repos\Proje3\Proje3\bin\Debug\net10.0\Proje3.deps.json
+C:\Users\arda\source\repos\Proje3\Proje3\bin\Debug\net10.0\Proje3.runtimeconfig.json
+C:\Users\arda\source\repos\Proje3\Proje3\bin\Debug\net10.0\Proje3.dll
+C:\Users\arda\source\repos\Proje3\Proje3\bin\Debug\net10.0\Proje3.pdb
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\Proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\Proje3.AssemblyInfoInputs.cache
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\Proje3.AssemblyInfo.cs
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\Proje3.csproj.CoreCompileInputs.cache
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\Proje3.dll
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\refint\Proje3.dll
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\Proje3.pdb
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\Proje3.genruntimeconfig.cache
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\ref\Proje3.dll
+C:\Users\arda\source\repos\Proje3\Proje3\obj\Debug\net10.0\Proje3.csproj.Up2Date
