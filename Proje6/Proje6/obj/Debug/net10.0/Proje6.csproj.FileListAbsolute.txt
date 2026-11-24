@@ -1,0 +1,15 @@
+C:\Users\arda\source\repos\Proje6\Proje6\bin\Debug\net10.0\Proje6.exe
+C:\Users\arda\source\repos\Proje6\Proje6\bin\Debug\net10.0\Proje6.deps.json
+C:\Users\arda\source\repos\Proje6\Proje6\bin\Debug\net10.0\Proje6.runtimeconfig.json
+C:\Users\arda\source\repos\Proje6\Proje6\bin\Debug\net10.0\Proje6.dll
+C:\Users\arda\source\repos\Proje6\Proje6\bin\Debug\net10.0\Proje6.pdb
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\Proje6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\Proje6.AssemblyInfoInputs.cache
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\Proje6.AssemblyInfo.cs
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\Proje6.csproj.CoreCompileInputs.cache
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\Proje6.dll
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\refint\Proje6.dll
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\Proje6.pdb
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\Proje6.genruntimeconfig.cache
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\ref\Proje6.dll
+C:\Users\arda\source\repos\Proje6\Proje6\obj\Debug\net10.0\Proje6.csproj.Up2Date
